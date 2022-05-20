@@ -1,2 +1,2 @@
 # sushi-distributor
- My first programn
+ My first program in Python!
